@@ -1,0 +1,129 @@
+.A{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 550;
+    cursor: pointer;
+}
+.B{
+    /* padding: 16px;
+    text-align: center;
+    border: 0.1px solid #d4c7e1;
+    border-radius: 4px;
+    box-shadow: 0px 0px 1px 0px;
+    background-color: #28222d;
+    /* Card ka background color (dark grey, bilkul black nahi) */
+  background-color: #28222d; /* Ya jo reference mein ho, jaise #1A1A1A */
+
+  /* Patla sa border */
+  border: 1px solid rgb(76, 76, 76);
+
+  /* Kone gole karne ke liye */
+  border-radius: 16px;
+
+  /* Card ke andar spacing */
+  padding: 40px 24px;
+
+  /* Sab kuch beech mein lane ke liye (Flexbox) */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  /* Card ki choudai (width) set karein */
+  max-width: 350px; /* Apni zarurat anusar adjust karein */
+  margin: auto
+}
+.B1{
+    font-size: 20px;
+    padding: 24px 24px 12px;
+    color: #d4c7e1;
+    font-weight: 600;
+    width: 275px;
+    height: 232px;
+}
+.B2{
+    color: #c2b6cf;
+    font-size: 14px;
+    line-height: 1.42857;
+    padding: 8px 12px;
+
+}
+.B11{
+    margin: 24px 0px 0px;
+}
+.C{
+    padding: 40px;
+    background-color: #28222d;
+    border-radius: 8px;
+    text-align: left;
+}
+.C1{
+
+}
+.C11{
+    font-size: 18px;
+    margin: 0px 0px 16px;
+    font-weight: 500;
+    color: #dbc5d2;
+    text-align: left;
+}
+.C12{
+    font-size: 14px;
+    padding: 0px 0px 24px;
+    color: #c2b6cf;
+    word-spacing:0.9px;
+}
+.C2{
+    /* display: flex; */
+    margin: 32px 0px 0px;
+    /* flex-direction: column; */
+    /* justify-content: left; */
+    /* gap: 0px 0px 16px; */
+
+}
+.C21{
+    margin: 0px 0px 16px;
+}
+.C3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+.button{
+    padding: 8px 16px;
+    color:#efc0d8;
+    font-size: 14px;
+    width: 227px;
+    height: 48px;
+    margin-top: 24px ;
+    border-radius: 8px;
+}
+.navBar:hover{
+    background-color: #8b0141 !important;
+}
+.But1:hover{
+    background-color: #8b0141 !important;
+}
+.But2:hover{
+    color: #d4c7e1;
+    background-color: rgb(64, 63, 63) !important;
+}
+#but3:hover{
+    background-color: #9c034a !important;
+}
+#but4:hover{
+    background-color: #34262d !important ;
+}
+#but5:hover{
+    background-color: #9c034a !important;
+}
+#but6:hover{
+    background-color: #9c034a !important;
+}
+#but7:hover{
+    background-color: #9c034a !important;
+}
